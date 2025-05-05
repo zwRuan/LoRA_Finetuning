@@ -1,0 +1,9 @@
+scipy
+packaging
+sentencepiece
+datasets
+deepspeed
+accelerate
+peft
+transformers
+modelscope
